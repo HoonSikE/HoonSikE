@@ -23,7 +23,7 @@ hoongrammer@gmail.com
 
 다음에 또 함께하고 싶은 사람
 
-### Projects 프로젝트
+### Projects
  - [Tarimwon](https://github.com/HoonSikE/MakeEngraveDraft)
 
  - [모아 아일랜드 [Moa Island]](https://github.com/HoonSikE/MoaIsland)
