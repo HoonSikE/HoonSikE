@@ -13,6 +13,8 @@ hoongrammer@gmail.com
 
 ### 📚 [**Tistory Blog**](https://han-hoon.tistory.com/)
 
+### 🌎 [**Notion**](https://hoongrammer.notion.site/hoongrammer/8f37f047d08a447b974ed0514a065f33)
+
 ### 📷 [**Instagram**](https://www.instagram.com/hoon._.sik/)
 
 🖥️ **Web/App Developer**
