@@ -17,7 +17,7 @@ hoongrammer@gmail.com
 
 ### 📷 [**Instagram**](https://www.instagram.com/hoon._.sik/)
 
-🖥️ **Web/App Developer**
+### 🖥️ **Web/App Developer**
 
 밝은 분위기를 주도하는 분위기 메이커 (ESFJ)
 
@@ -25,7 +25,7 @@ hoongrammer@gmail.com
 
 다음에 또 함께하고 싶은 사람
 
-### Projects
+### 💎 Projects
  - [Tarimwon](https://github.com/HoonSikE/MakeEngraveDraft)
 
  - [모아 아일랜드 [Moa Island]](https://github.com/HoonSikE/MoaIsland)
