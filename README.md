@@ -30,7 +30,7 @@ hoongrammer@gmail.com
 
  - [모아 아일랜드 [Moa Island]](https://github.com/HoonSikE/MoaIsland)
 
- - [알파카 [Alpaca]](https://github.com/HoonSikE/Alpaca)
+ - [알파카 [Alpaca]](https://github.com/HoonSikE/Alpaca/tree/master/aos)
 
  - [수줍 [SooJoob]](https://github.com/HoonSikE/SOOJOOB)
 
