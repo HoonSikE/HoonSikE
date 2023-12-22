@@ -10,7 +10,7 @@ hoongrammer@gmail.com
 
 [![HoonSikE's GitHub stats](https://github-readme-stats.vercel.app/api?username=HoonSikE&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=han_hoon)](https://solved.ac/han_hoon)
+[![Solved.ac 프로필](https://mazassumnida.wtf/api/v2/generate_badge?boj=han_hoon)](https://solved.ac/han_hoon)
 
 ### 📚 [**Tistory Blog**](https://han-hoon.tistory.com/)
 
