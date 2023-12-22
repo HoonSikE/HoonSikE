@@ -27,7 +27,7 @@ hoongrammer@gmail.com
 다음에 또 함께하고 싶은 사람
 
 ### 💎 Projects
- - [Retrofit 사용 예제 및 토이 프로젝트](https://github.com/HoonSikE/RetrofitExample)
+ - [Retrofit 활용 예제](https://github.com/HoonSikE/RetrofitExample)
 
  - [태림원 [Taerimwon]](https://github.com/HoonSikE/MakeEngraveDraft)
 
