@@ -5,11 +5,10 @@
 ### 📧 **Email** : hoongrammer@gmail.com
 
 ### 🖥️ Skills
-
-![skills](/img/skills.png)
+<img src="./img/skills.png" style="width: 100%;">
 
 ### 💎 Projects
-![projects](/img/projects.png)
+<img src="./img/projects.png" style="width: 100%;">
 
 ### [🐱**Github**](https://github.com/HoonSikE)
 
