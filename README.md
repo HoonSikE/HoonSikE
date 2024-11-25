@@ -24,10 +24,6 @@
   <img src="./img/moa.png" alt="모아 아일랜드" style="width: 100%;">
 </a>
 
-### [🐱**Github**](https://github.com/HoonSikE)
-
-[![HoonSikE's GitHub stats](https://github-readme-stats.vercel.app/api?username=HoonSikE&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-
 ### 🏅**Algorithm**
 
 [![Solved.ac 프로필](https://mazassumnida.wtf/api/v2/generate_badge?boj=han_hoon)](https://solved.ac/han_hoon)
