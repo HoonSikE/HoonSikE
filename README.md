@@ -17,7 +17,7 @@
 <a href="https://github.com/HoonSikE/SOOJOOB">
   <img src="./img/soojoob.png" alt="수줍" style="width: 100%;">
 </a>
-<a href="https://github.com/HoonSikE/Alpaca">
+<a href="https://github.com/HoonSikE/Alpaca/tree/master/aos">
   <img src="./img/alpaca.png" alt="알파카" style="width: 100%;">
 </a>
 <a href="https://github.com/HoonSikE/MoaIsland">
