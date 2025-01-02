@@ -7,7 +7,7 @@
 ### 🖥️ Skills
 <img src="./img/skills.png" style="width: 100%;">
 
-### 💎 Projects [Click시 URL 이동 (GA4 구축 및 운영 제외)]
+### 💎 Projects
 <a href="https://github.com/HoonSikE/HoonSikE">
   <img src="./img/ga4.png" alt="GA4 구축 및 운영" style="width: 100%;">
 </a>
